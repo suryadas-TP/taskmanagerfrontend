@@ -1,4 +1,4 @@
 import axios from "axios";
 export default axios.create({
-    baseURL:"https://taskmanagerbackend-1-wm2u.onrender.com/api/tasks"
+    baseURL:"https://taskmanagerbackend-3.onrender.com/api/tasks"
 });
